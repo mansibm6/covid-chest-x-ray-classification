@@ -1,0 +1,6 @@
+{
+  "required": [
+    "data/train/",
+    "data/test/"
+  ]
+}
